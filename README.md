@@ -41,6 +41,5 @@ docker run -p 8080:8080 aws/s3-download-binary-service
 ```
 
 ## License
----
 
 MIT
