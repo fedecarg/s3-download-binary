@@ -31,7 +31,7 @@ PORT=8080 npm start
 ## Docker Support
 
 ```sh
-cd express-es6-rest-api
+cd s3-download-binary-service
 
 # Build your docker
 docker build -t aws/s3-download-binary-service .
