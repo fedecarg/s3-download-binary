@@ -33,10 +33,10 @@ PORT=8080 npm start
 ```sh
 cd s3-download-binary-service
 
-# Build your docker
+# Build Docker image
 docker build -t aws/s3-download-binary-service .
 
-# run your docker
+# Rour Docker image
 docker run -p 8080:8080 aws/s3-download-binary-service
 ```
 
