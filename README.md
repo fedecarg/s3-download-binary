@@ -1,5 +1,4 @@
 # Express & ES6 REST API
----
 
 This is a straightforward boilerplate for building REST APIs with ES6 and Express.
 
@@ -12,7 +11,6 @@ This is a straightforward boilerplate for building REST APIs with ES6 and Expres
 
 
 ## Getting Started
----
 
 ```sh
 # Clone repo
@@ -33,7 +31,6 @@ PORT=8080 npm start
 ```
 
 ## Docker Support
----
 
 ```sh
 cd express-es6-rest-api
