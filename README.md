@@ -1,6 +1,6 @@
-# Express & ES6 REST API
+# S3 RESTful API
 
-This is a straightforward boilerplate for building REST APIs with ES6 and Express.
+Boilerplate for building RESTful APIs with Node, ES6 and Express.
 
 - ES6 support via [babel](https://babeljs.io)
 - REST resources as middleware via [resource-router-middleware](https://github.com/developit/resource-router-middleware)
