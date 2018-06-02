@@ -52,7 +52,7 @@ var auth = require('basic-auth')
 var server = http.createServer(function (req, res) {
   var credentials = auth(req)
 
-  if (!credentials || credentials.name !== 'aladdin' || credentials.pass !== 'opensesame') {
+  if (!credentials || credentials.name !== 'federico' || credentials.pass !== 'secret') {
     res.statusCode = 401
     res.setHeader('WWW-Authenticate', 'Basic realm="S3 Download Service"')
     res.end('Access denied')
