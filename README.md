@@ -1,4 +1,4 @@
-# S3 RESTful API
+# S3 Download Binary Payload - RESTful API
 
 Boilerplate for building RESTful APIs with Node, ES6 and Express.
 
